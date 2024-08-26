@@ -1,4 +1,7 @@
-## Welcome to GitHub Pages
+# Pranav Chitiveli's First CS193 Homework
+- I like the fact that this course is run by students, who may have more consideration and empathy toward the other workload of students taking this course and who can design the course's assignments accordingly.
+- I like that this course aims to teach about widely used tools in the field of computer science, which many of us may even use on a daily basis ininternships and jobs.
+
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
